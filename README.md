@@ -7,10 +7,10 @@
      *   например такой код может быть в Resource
      *   'permissions' => [
      *      'detachUser' => auth()->user()->can('detachUser', [$someModel, $plusData]),
-     *      'attachUser' => auth()->user()->can('attachUser', [$incident, $plusData]),
+     *      'attachUser' => auth()->user()->can('attachUser', [$someModel, $plusData]),
      *    ],
      */     
-    public function assignedUser(User $user, someModel $someModel, plusData $plusData): bool
+    public function attachUser(User $user, SomeModel $someModel, PlusData $plusData): bool
     {
       //do something
     }
