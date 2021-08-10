@@ -1,6 +1,6 @@
 # laravel-wonder-book
 
-    1. Передача дополнительных параметров в политики Laravel
+    ### 1. Передача дополнительных параметров в политики Laravel ###
 
      /*
      *   В политики доплнительные данные могут передаваться в таком виде,
@@ -15,7 +15,7 @@
       //do something
     }
     
-    2. Carbon работа со временем
+    ### 2. Carbon работа со временем ###
     
     First, Eloquent automatically converts it's timestamps (created_at, updated_at) into carbon objects. You could just use updated_at to get that nice feature, or specify edited_at in your model in the $dates property:
 
