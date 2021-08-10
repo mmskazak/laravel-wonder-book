@@ -14,3 +14,22 @@
     {
       //do something
     }
+    
+    2. Carbon работа со временем
+    
+    First, Eloquent automatically converts it's timestamps (created_at, updated_at) into carbon objects. You could just use updated_at to get that nice feature, or specify edited_at in your model in the $dates property:
+
+    protected $dates = ['edited_at'];
+    Now back to your actual question. Carbon has a bunch of comparison functions:
+
+    eq() equals
+    ne() not equals
+    gt() greater than
+    gte() greater than or equals
+    lt() less than
+    lte() less than or equals
+    Usage:
+
+    if($model->edited_at->gt($model->created_at)){
+        // edited at is newer than created at
+    }
