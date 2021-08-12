@@ -33,3 +33,6 @@
     if($model->edited_at->gt($model->created_at)){
         // edited at is newer than created at
     }
+    
+### 3. Установка Vuetify в Laravel ###    
+    https://stackoverflow.com/questions/48735602/how-to-implement-vuetify-in-laravel
