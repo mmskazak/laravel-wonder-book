@@ -36,3 +36,8 @@
     
 ### 3. Установка Vuetify в Laravel ###    
     https://stackoverflow.com/questions/48735602/how-to-implement-vuetify-in-laravel
+    
+    
+### 4. Подключение к базе данных Laravel sail ###  
+    
+    https://tallpad.com/series/laravel-sail/lessons/creating-a-database-client-connection
