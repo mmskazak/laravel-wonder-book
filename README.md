@@ -41,3 +41,7 @@
 ### 4. Подключение к базе данных Laravel sail ###  
     
     https://tallpad.com/series/laravel-sail/lessons/creating-a-database-client-connection
+    
+### 5. Установка докер на Ubuntu ###  
+    
+    https://www.digitalocean.com/community/tutorials/docker-ubuntu-18-04-1-ru
