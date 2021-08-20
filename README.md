@@ -51,3 +51,8 @@
 ### 7. Настройка гитлаб в облаке ### 
     
     https://mcs.mail.ru/help/ru_RU/cases-gitlab/case-gitlab
+    
+### 8. Установака gitlab из докера, проблема с перввой авторзацией ###
+
+https://forum.gitlab.com/t/how-to-login-for-the-first-time-local-install-with-docker-image/55297/5
+https://stackoverflow.com/questions/55747402/docker-gitlab-change-forgotten-root-password
