@@ -47,3 +47,7 @@
     
 ### 6. Установка докер-компос на Ubuntu ###     
     https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-on-ubuntu-18-04-ru
+    
+### 7. Настройка гитлаб в облаке ### 
+    
+    https://mcs.mail.ru/help/ru_RU/cases-gitlab/case-gitlab
