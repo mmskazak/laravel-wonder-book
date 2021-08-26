@@ -36,6 +36,8 @@
     
 ### 3. Установка Vuetify в Laravel ###    
     https://stackoverflow.com/questions/48735602/how-to-implement-vuetify-in-laravel
+    https://stackoverflow.com/questions/50985783/vuetify-css-not-working-taking-effect-inside-component
+    https://codersdiaries.com/blog/laravel-vuetify
     
     
 ### 4. Подключение к базе данных Laravel sail ###  
