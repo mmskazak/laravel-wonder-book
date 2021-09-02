@@ -62,3 +62,6 @@ https://docs.gitlab.com/ee/security/reset_user_password.html
 
 ### 9. Хороший пример использования интерцептора axios.js
 https://medium.com/@ruslan201010/%D1%81%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D1%8B-axios-7eb96df40900
+
+### 10. Пример испльзования middleware Vue.js ###
+https://webdevblog.ru/ispolzovanie-middleware-vo-vue/
