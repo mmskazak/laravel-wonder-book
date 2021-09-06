@@ -65,3 +65,6 @@ https://medium.com/@ruslan201010/%D1%81%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%
 
 ### 10. Пример испльзования middleware Vue.js ###
 https://webdevblog.ru/ispolzovanie-middleware-vo-vue/
+
+### 11. Настройка локализации Inertia.js
+https://www.nicolaskempf.fr/en/translate-laravel-jetstream-and-inertia-with-vue-i18n-matice/
