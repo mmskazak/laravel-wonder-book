@@ -68,3 +68,6 @@ https://webdevblog.ru/ispolzovanie-middleware-vo-vue/
 
 ### 11. Настройка локализации Inertia.js
 https://www.nicolaskempf.fr/en/translate-laravel-jetstream-and-inertia-with-vue-i18n-matice/
+
+### 12. Инициализация и Boot в трейтах Eloquent для Laravel 
+https://medium.com/swlh/laravel-booting-and-initializing-models-with-traits-2f77059b1915
