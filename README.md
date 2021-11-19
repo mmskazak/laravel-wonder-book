@@ -71,3 +71,13 @@ https://www.nicolaskempf.fr/en/translate-laravel-jetstream-and-inertia-with-vue-
 
 ### 12. Инициализация и Boot в трейтах Eloquent для Laravel 
 https://medium.com/swlh/laravel-booting-and-initializing-models-with-traits-2f77059b1915
+
+
+### 13. Загрука файла из потока
+
+     $filename = 'signer';
+        $contents = $response->getBody()->getContents();
+
+        return response()->streamDownload(function () use ($contents) {
+            echo $contents;
+        }, $filename);
