@@ -81,3 +81,5 @@ https://medium.com/swlh/laravel-booting-and-initializing-models-with-traits-2f77
         return response()->streamDownload(function () use ($contents) {
             echo $contents;
         }, $filename);
+### 14. Laravel создание собственных функций
+https://laravel.demiart.ru/laravel-sozdayom-svoi-sobstvennye-funktsii/
