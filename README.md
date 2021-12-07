@@ -83,3 +83,9 @@ https://medium.com/swlh/laravel-booting-and-initializing-models-with-traits-2f77
         }, $filename);
 ### 14. Laravel создание собственных функций
 https://laravel.demiart.ru/laravel-sozdayom-svoi-sobstvennye-funktsii/
+
+### 15.  Возвращает название таблицы 
+в модели необходимо добавить метод
+public function getTable() {
+    return $this->getConnection()->getDatabaseName().".$table";
+}
